@@ -1,0 +1,27 @@
+/* Custom CSS overrides */
+
+table
+{
+   border:none;
+}
+
+.pro
+{
+	color: white;
+}
+
+.pro-title a
+{
+	color: white;
+}
+
+.pro-cat 
+{
+	color: white;
+}
+
+.pro-cat-field 
+{
+	color: white;
+	font-style: italic;
+}
